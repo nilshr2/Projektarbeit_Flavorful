@@ -1,0 +1,13 @@
+{
+  "categories": "categories",
+  "recipes": "recipes",
+  "ingredients": "Ingredients",
+  "calories_per_serving": "calories per serving",
+  "waiting": "waiting",
+  "servings": "servings",
+  "start_preparation": "Start preparation!",
+  "finish": "Finish!",
+  "for_you": "For you",
+  "latest": "latest",
+  "discover": "discover"
+}
